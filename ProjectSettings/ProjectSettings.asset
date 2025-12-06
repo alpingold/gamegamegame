@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: a3873066f3e7f1e48b1385667578c5b3
+  productGUID: 80e73885ecc13c1418f96f139f77ee3c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: practicegameye
+  productName: gamiegam
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -844,14 +844,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: practicegameye
+  metroPackageName: gamiegam
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: practicegameye
+  metroApplicationDescription: gamiegam
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -922,10 +922,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: e1341691-9eb4-45f9-baa6-7103f280bb10
+  cloudProjectId: 8fb99636-4c3d-4153-8cbc-aadfd77b8644
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: practicegameye
+  projectName: gamiegam
   organizationId: alpinnist448
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
